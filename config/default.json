@@ -1,0 +1,4 @@
+{
+    "mongoURI":
+    "mongodb+srv://Huncho:Vivrocks21@cluster0.73tmb.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+}
